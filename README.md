@@ -39,6 +39,9 @@
 | Rubber gasket cord (5m)       | 1                  | For sealing electronic box lid                       |
 | Liquid level sensor           | 1                  | For measuring actual water level                     |
 
+## Dosing system UI Layout
+![alt text](https://github.com/msahmed1/nutrient-dosing-system/blob/main/ui%20layout.png)
+
 ## Set up
 1. Calibrate peristaltic pumps
 2. Fill the tank to the first float switch
