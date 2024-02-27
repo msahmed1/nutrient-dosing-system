@@ -4,10 +4,10 @@
 ![alt text](https://github.com/msahmed1/nutrient-dosing-system/blob/main/system%20diagram.png)
 
 # Set up
-- [] Calibrate pH and EC
-- [] Fill beakers with nutrients
-- [] Calibrate peristaltic pumps
-- []Fill the tank to the first float switch
+-[] Calibrate pH and EC
+-[] Fill beakers with nutrients
+-[] Calibrate peristaltic pumps
+-[]Fill the tank to the first float switch
 
 # Hardware
 | Part                          | Quantity           | Description                                          |
