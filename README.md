@@ -3,6 +3,10 @@
 ## System diagram
 ![alt text](https://github.com/msahmed1/nutrient-dosing-system/blob/main/system%20diagram.png)
 
+-	If float switch 1 is triggered and float switch 2 is not triggered, then there is an error in the system and an alarm will sound
+-	If float switch 3 is not triggered, then the system should switch to filling with fresh water.
+-	Bulkhead fittings are in place just in case of over fill
+
 ## Hardware
 | Part                          | Quantity           | Description                                          |
 |-------------------------------|--------------------|------------------------------------------------------|
