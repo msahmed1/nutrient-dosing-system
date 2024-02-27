@@ -1,15 +1,9 @@
-# nutrient-dosing-system
+# Nutrient Dosing System
 
-# System diagram
+## System diagram
 ![alt text](https://github.com/msahmed1/nutrient-dosing-system/blob/main/system%20diagram.png)
 
-# Set up
--[] Calibrate pH and EC
--[] Fill beakers with nutrients
--[] Calibrate peristaltic pumps
--[]Fill the tank to the first float switch
-
-# Hardware
+## Hardware
 | Part                          | Quantity           | Description                                          |
 |-------------------------------|--------------------|------------------------------------------------------|
 | Reservoir/mixing tank         | 1                  | Nutrient mixed and stored                            |
@@ -44,3 +38,9 @@
 | M4 rubber washers             | 9                  | For sealing electronic box mounting holes            |
 | Rubber gasket cord (5m)       | 1                  | For sealing electronic box lid                       |
 | Liquid level sensor           | 1                  | For measuring actual water level                     |
+
+## Set up
+1. Calibrate peristaltic pumps
+2. Fill the tank to the first float switch
+3. Fill beakers with nutrients
+4. Calibrate pH and EC
